@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello welcome to digi world</h2>
+<h2>Introducing new technology</h2>
 </body>
 </html>
